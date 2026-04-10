@@ -85,31 +85,31 @@ The iOS adaptation translates the five Bauhaus pillars into SwiftUI:
 
 Large headline with geometric accent (concentric circles + diagonal), flush-left typography, single red accent bar.
 
-![Poster](swiftui_poster.png)
+<img src="swiftui_poster.png" width="390">
 
 ### Dashboard (light)
 
 2-column `LazyVGrid` metric cards, inline bar charts, `BauhausTokens` spacing throughout.
 
-![Dashboard light](swiftui_dashboard_light.png)
+<img src="swiftui_dashboard_light.png" width="390">
 
 ### Dashboard (dark)
 
 Same structure, dark palette. No gradients, no materials — solid color fields only.
 
-![Dashboard dark](swiftui_dashboard_dark.png)
+<img src="swiftui_dashboard_dark.png" width="390">
 
 ### Editorial
 
 7:5 asymmetric layout with pull quote (accent border) and sidebar timeline.
 
-![Editorial](swiftui_editorial.png)
+<img src="swiftui_editorial.png" width="390">
 
 ### Article list
 
 7:5 asymmetric list rows, red accent squares, uppercase date labels.
 
-![List](swiftui_list.png)
+<img src="swiftui_list.png" width="390">
 
 ## License
 
