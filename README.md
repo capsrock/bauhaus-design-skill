@@ -64,6 +64,21 @@ Concentric arcs, flush-left typography, single red accent, diagonal tension line
 
 ![Editorial dark](editorial_dark.png)
 
+## Platform Support
+
+- **Web (HTML/CSS/SVG):** See `SKILL.md`
+- **iOS (SwiftUI):** See `IOS_ADAPTATION.md`
+
+## iOS Quick Start
+
+The iOS adaptation translates the five Bauhaus pillars into SwiftUI:
+
+1. Grid → `LazyVGrid` / `Grid` with `BauhausTokens.gutter`
+2. Typography → SF Pro, mathematical type scale (1.333 ratio)
+3. Color → 3-color max, no gradients, `BauhausTokens` enum
+4. Geometry → `Canvas` / `Path` / `Shape` (replaces SVG)
+5. Asymmetry → Proportional `HStack` splits, `.leading` alignment
+
 ## License
 
 MIT
