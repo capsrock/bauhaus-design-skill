@@ -1,3 +1,5 @@
+![bauhaus-design-skill](bauhaus_readme_banner.png)
+
 # bauhaus-design-skill
 
 A Claude skill for generating frontends, posters, dashboards, and web UIs rooted in **Bauhaus** and **Swiss International Typographic Style** design principles.
